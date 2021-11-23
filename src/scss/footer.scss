@@ -1,0 +1,21 @@
+.footer {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 80px;
+  height: 520px;
+  padding-top: 80px;
+  background-image: url('../img/footer_pic.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer-line {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 300;
+  height: 45px;
+  background-color: #2c3e50;
+}
